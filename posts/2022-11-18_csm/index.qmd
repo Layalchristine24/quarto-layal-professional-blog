@@ -1,0 +1,33 @@
+---
+title: Certified ScrumMaster
+subtitle: Certified ScrumMaster Training for Scrum Alliance Certification
+author:
+  - name:
+      given: Layal Christine
+      family: Lettry
+    affiliations:
+      - id: cynkra
+      - name: cynkra GmbH
+        city: Zurich
+        state: CH
+date: 2022-11-18
+categories: [cynkra GmbH, Scrum, CSM, DasScrumTeam]
+image: image.jpg
+format:
+  html:
+    toc: true
+    toc-title: Contents
+    toc-location: right
+    number-sections: false
+---
+
+
+*My Certified ScrumMaster Training Experience with DasScrumTeam*
+
+In November 2022, I attended the Certified ScrumMaster Training conducted by [DasScrumTeam](https://www.dasscrumteam.com/) at the Radisson Blu Hotel in Zurich. The two-day training equipped me with the knowledge needed to pass the [Scrum Alliance](https://www.scrumalliance.org) Online Test and attain the [Certified ScrumMaster certification](https://certification.scrumalliance.org/accounts/1446608-layal-christine/certifications/1689119-csm).
+
+The training was comprehensive, covering Scrum concepts and principles in an accessible manner. The instructors were experienced and passionate about Scrum, making the learning process engaging and effective.
+
+By the end of the training, I felt well-prepared to take the certification test. Moreover, the interaction with fellow participants allowed for valuable knowledge sharing and networking opportunities.
+
+For those considering ScrumMaster certification, [DasScrumTeam](https://www.dasscrumteam.com/)'s training program is a worthwhile choice to gain the necessary skills and knowledge.
