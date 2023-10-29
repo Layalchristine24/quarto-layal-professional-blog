@@ -1,0 +1,29 @@
+---
+title: New job at cynkra GmbH as a data scientist
+author:
+  - name:
+      given: Layal Christine
+      family: Lettry
+    affiliations:
+      - id: cynkra
+      - name: cynkra GmbH
+        city: Zurich
+        state: CH
+date: 2022-10-01
+categories: [cynkra GmbH, data scientist]
+image: image.jpg
+format:
+  html:
+    toc: true
+    toc-title: Contents
+    toc-location: right
+    number-sections: false
+---
+
+*Happy to announce that I now work as a data scientist at cynkra GmbH!*
+
+I am absolutely thrilled to share the news that I have joined the incredible team at [Cynkra GmbH](https://www.cynkra.com) as a data scientist.
+
+First and foremost, I want to express my heartfelt gratitude to Dr Kirill Müller and Dr Christoph Sax for opening this exciting chapter in my career.
+
+The prospect of working on exciting projects in the future has me filled with enthusiasm. Stay tuned for updates on the exciting journey that lies ahead!
