@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 63a0d27a-9743-428f-a8ac-59b3e63ea57e
+      url: 'https://lclettry-pronews.netlify.app'
