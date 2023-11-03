@@ -1,0 +1,43 @@
+---
+title: Meetup adminR Winter 2022
+author:
+  - name:
+      given: Layal Christine
+      family: Lettry
+      orcid: 0009-0008-6396-0523
+    affiliations:
+      - id: cynkra
+      - name: cynkra GmbH
+        city: Zurich
+        state: CH
+date: 2022-12-08
+categories: [adminR, meetup, FSO]
+image: image.jpg
+citation:
+  url: https://github.com/swiss-adminR/202212_slides
+format:
+  html:
+    toc: true
+    toc-title: Contents
+    toc-location: right
+    number-sections: false
+---
+
+*"Explore R, APIs, and Shiny apps in Swiss Official Statistics at the "Meetup adminR" event hosted by the Federal Statistical Office. Dive in with presentation slides on GitHub!*
+
+I had the pleasure of attending the recent "Meetup adminR" event, which was hosted by the Federal Statistical Office in Neuchâtel on December 8, 2022. The event featured three informative and engaging presentations that shed light on various aspects of data and programming in Swiss Official Statistics:
+
+1. **R at the Swiss Federal Statistical Office** by Renger van Nieuwkoop (FSO)
+   
+   Renger delved into how R is utilized at the Federal Statistical Office, offering insights into the applications of this programming language in their work.
+
+2. **Access public APIs** by Fabian Santi (FSO)
+
+   Fabian's presentation provided valuable knowledge on accessing public API with 
+   the fso.metada package which you can install with `remotes::install_gitlab("dscc/fso-metadata", force = TRUE)`. 
+
+3. **Shiny Applications at VBZ** by Yana Neuenschwander (VBZ Zürich)
+
+   Yana's presentation explored the world of Shiny applications at VBZ Zürich, offering a glimpse into the innovative use of data-driven web applications in the transportation sector.
+
+If you're interested in delving deeper into the content shared during the event, you can find the presentation slides on [GitHub](https://github.com/swiss-adminR/202212_slides). 
