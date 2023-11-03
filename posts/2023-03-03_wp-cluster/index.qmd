@@ -1,0 +1,51 @@
+---
+title: Clustering the Swiss Pension Register
+subtitle:  My First Working Paper "Clustering the Swiss Pension Register" Is Now Online!
+bibliography: references.bib
+author:
+  - name:
+      given: Layal Christine
+      family: Lettry
+      orcid: 0009-0008-6396-0523
+    affiliations:
+      - id: unifr
+      - name: University of Fribourg, Dept. of Informatics, ASAM Group
+        city: Fribourg
+        state: CH
+      - id: cynkra
+      - name: cynkra GmbH
+        city: Zurich
+        state: CH
+  - name: Laurent Donzé
+    affiliations:
+      - id: unifr
+      - name: University of Fribourg, Dept. of Informatics, ASAM Group
+        city: Fribourg
+        state: CH
+date: 2023-02-27
+categories: [publication, working paper, kamila, clustering, rrclust, prediction strength criterion, R package, UniFr, OASI, FSIO, R]
+image: image.jpg
+citation: 
+  url: https://folia.unifr.ch/unifr/documents/324081
+  language: en
+format:
+  html:
+    toc: true
+    toc-title: Contents
+    toc-location: right
+    number-sections: false
+---
+
+*What insights can be gained from analyzing the Swiss Pension Register data?*
+
+Exciting news! My first working paper, "Clustering the Swiss Pension Register," is online. Delve in and discover valuable insights from the Swiss Pension Register (CCO/FSIO) dataset!
+
+The Swiss Pension Register (CCO/FSIO) holds valuable data for forecasting Old-Age and Survivors' Insurance (OASI) finances in the short, medium, and long term. To harness this wealth of data, we've analyzed its core statistics in our working paper "Clustering the Swiss Pension Register".
+
+With guidance from Prof. Dr. Laurent Donzé  from the University of Fribourg (Switzerland), we've uncovered key insights using effective clustering methods. Our findings illuminate the potential of this data source for shaping OASI's future.
+
+I want to express my gratitude to a few important people and organizations. First, a big thank you to Professor Dr. L. Donzé for his guidance and support. I'm also thankful to the Federal Social Insurance Office (FSIO) for allowing me to use the Swiss Pension Register (CCO/FSIO) and to my former colleagues during my time as an econometrician there.
+
+I used the KAMILA clustering method and its corresponding R package for this paper, so I want to thank the authors who made it possible.
+
+Finally, a special thanks to my husband for his support and proofreading. You've all played a significant role in making this working paper a reality.
