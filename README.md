@@ -1,2 +1,2 @@
 # quarto-layal-professional-blog
-My blog about professional news
+My [blog](https://lclettry-pronews.netlify.app) about professional news.
